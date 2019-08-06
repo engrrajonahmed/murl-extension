@@ -1,0 +1,16 @@
+{
+	"name": "mURL",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/engrrajonahmed/murl-extension.git"
+	},
+	"description": "Minimal URL is a modern URL shortener with support for custom alias.",
+	"author": "mURL",
+	"version": "0.1.1",
+	"devDependencies": {
+		"jshint": "^2.10.2"
+	},
+	"scripts": {
+		"test": "jshint travis.js"
+	}
+}
